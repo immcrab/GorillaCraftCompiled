@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PD7gXSClpGI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owen2\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
