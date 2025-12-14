@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = GorillaCraft
-build_property.ProjectDir = C:\Users\owen2\Downloads\GorillaCraft-main\GorillaCraft-main\GorillaCraft\
+build_property.ProjectDir = C:\Users\owen2\Downloads\GorillaCraft-main\GorillaCraft-main\GorillaCraft\GorillaCraftCompiled\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

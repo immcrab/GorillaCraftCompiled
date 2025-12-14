@@ -67,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraft.csproj",
+      "projectUniqueName": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraftCompiled\\GorillaCraft.csproj",
       "projectName": "GorillaCraft",
-      "projectPath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraft.csproj",
+      "projectPath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraftCompiled\\GorillaCraft.csproj",
       "packagesPath": "C:\\Users\\owen2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\obj\\",
+      "outputPath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraftCompiled\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

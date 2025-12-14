@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PD7gXSClpGI=",
+  "dgSpecHash": "RU2U68R2t1M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraft.csproj",
+  "projectFilePath": "C:\\Users\\owen2\\Downloads\\GorillaCraft-main\\GorillaCraft-main\\GorillaCraft\\GorillaCraftCompiled\\GorillaCraft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owen2\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.3\\bepinex.assemblypublicizer.msbuild.0.4.3.nupkg.sha512"
   ],
