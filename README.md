@@ -6,7 +6,7 @@
 
 ---
 
-## 📥 Installation
+## Installation
 
 Follow these steps to install GorillaCraft:
 
@@ -47,7 +47,7 @@ Follow these steps to install GorillaCraft:
 A: No, you can overwrite it in the `plugins` folder.  
 
 **Q: Can I use this in official lobbies?**  
-A: Features may not work properly in official lobbies. Use a modded lobby for full functionality.  
+A: Features may not work properly in official lobbies. Use a [modded](https://github.com/immcrab/Lasting-Utilla/releases/latest) lobby for full functionality.  
 
 **Q: Is this safe?**  
 A: Yes, this is a compiled version of the original mod. No cheats are included. Use responsibly.
